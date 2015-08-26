@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>my first web page</title>
+    <style>
+        h1 {
+            text-align: center;
+        }
+        table,th,td{
+            border: 1px solid black;
+
+            border-collapse: separate;
+            border-spacing: 0px;
+            border-color: dimgrey;
+        }
+    </style>
+</head>
+<body>
+<h1><b>MiniApp</b></h1>
+<table><h1>
+    <tr>
+    <th>Home</th>
+    <th>Apps</th>
+    <th>Games</th>
+    <th>LiveWallpaper</th>
+    <th>Launchers</th>
+        <th>Themes</th>
+    <th>Widgets</th>
+        <th>Wallpapers</th>
+    </tr>
+</h1>
+</table>
